@@ -1,5 +1,3 @@
-package SecondTermWeek9;
-
 public class Main {
     public static void main(String[] args) {
         double sumProduct = 0;
