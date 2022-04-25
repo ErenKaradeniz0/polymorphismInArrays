@@ -1,5 +1,3 @@
-package SecondTermWeek9;
-
 public class Item {
     String name;
     double price;
